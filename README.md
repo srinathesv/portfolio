@@ -1,7 +1,7 @@
 # Srinath_portfolio
 My Portfolio
 
-# Practicum 1 - Question Answering Project
+# [Practicum 1 - Question Answering Project(Overview)](https://github.com/iiit-msit/QuestionAnswering)
 * There are two components in this project, 
 
 **Question Generation:** 
