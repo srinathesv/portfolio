@@ -1,5 +1,5 @@
-# Srinath_portfolio
-My Portfolio
+# Srinath's Portfolio 
+This is just the begining. 
 
 # [Practicum 1 - Question Answering Project(Overview)](https://github.com/iiit-msit/QuestionAnswering)
 * There are two components in this project, 
