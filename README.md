@@ -23,7 +23,7 @@
 > - Used Tkinter library to get the GUI version.
 > - It's a game between a user and computer where for every round both user and system chooses one among rock, paper and scissors. Winner is decided by number of win counts among them. 
 > 
-
+![Rps](https://github.com/srinathesv/srinath_portfolio/blob/main/6115522063106048.jpeg)
  
 >## Banking Project 
 >*Duration - 1 week | Role - Individual  | Technology - Java*
@@ -32,4 +32,4 @@
 > - After completion of every successful transaction, displays the information about the remaining balance. 
 > - For every non-successful transaction it displays error message.   
 > 
-
+![](https://github.com/srinathesv/srinath_portfolio/blob/main/programming-code-abstract-technology-background-software-developer-computer-script_34663-31-520x250.jpg)
