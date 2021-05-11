@@ -4,7 +4,7 @@
 
 ## Academic Projects
 >## [Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
-> *Currently working*     
+> *Duration - 8 weeks | Type - Team Project | Technologies - NLP, Python*     
 >
 >There are two components in this project, 
 >  * **Question Generation:** 
@@ -17,7 +17,7 @@
 
 
 >## Rock, Paper, Scissors 
->*Duration - 1 Week | Role - Team Member | Technology - Python-GUI*
+>*Duration - 1 Week | Type - Team Project | Technology - Python-GUI*
 >
 > - Designed and Developed using OOP concepts.
 > - Used Tkinter library to get the GUI version.
@@ -26,7 +26,7 @@
 ![6115522063106048](https://user-images.githubusercontent.com/71509397/117863774-c2aceb80-b2b1-11eb-9149-265bdc5d9a02.jpeg)
  
 >## Banking Project 
->*Duration - 1 week | Role - Individual  | Technology - Java*
+>*Duration - 1 week | Type - Individual  | Technology - Java*
 >
 > - Designed a program that stores customer's account details.
 > - Used Object Oriented Programming(OOP) concepts to test and design the operations such as transactions of debit and credit as user inputs.
