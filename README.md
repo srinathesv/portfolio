@@ -2,7 +2,7 @@
 *Master's Student* 
 
 ## Academic Projects
->## [Practicum 1 - Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
+>## [Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
 > *Currently working*     
 >
 >There are two components in this project, 
