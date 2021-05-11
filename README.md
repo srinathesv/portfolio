@@ -13,7 +13,7 @@
 > * **Answer Generation :** 
 >  *Given set of questions, should return an answer for each question with utmost fluent, correct and concise.*
 
-![Q&A](https://github.com/srinathesv/srinath_portfolio/blob/main/qa.png)
+![qa](https://user-images.githubusercontent.com/71509397/117863738-b88aed00-b2b1-11eb-9637-4140e8307868.png)
 
 >  
 
