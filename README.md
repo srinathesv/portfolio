@@ -1,5 +1,5 @@
 # Srinath Esv
->  Master's Student | Explorer 
+*Master's Student* 
 
 ## Academic Projects
 >## [Practicum 1 - Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
