@@ -13,7 +13,7 @@
 > * **Answer Generation :** 
 >  *Given set of questions, should return an answer for each question with utmost fluent, correct and concise.*
 >  
-![](https://github.com/srinathesv/srinath_portfolio/blob/main/QA-Webinar.jpeg)
+![](https://github.com/srinathesv/srinath_portfolio/blob/main/QA-Webinar.jpeg?raw=true)
 >  
 
 >## Rock, Paper, Scissors 
