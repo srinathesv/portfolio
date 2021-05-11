@@ -32,4 +32,4 @@
 > - After completion of every successful transaction, displays the information about the remaining balance. 
 > - For every non-successful transaction it displays error message.   
 > 
-![](https://github.com/srinathesv/srinath_portfolio/blob/main/programming-code-abstract-technology-background-software-developer-computer-script_34663-31-520x250.jpg)
+![Banking Application ](https://github.com/srinathesv/srinath_portfolio/blob/main/programming-code-abstract-technology-background-software-developer-computer-script_34663-31-520x250.jpg)
