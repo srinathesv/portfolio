@@ -1,5 +1,6 @@
 # Srinath Esv
-*Master's Student* 
+*Master's Student | srinath.esv@gmail.com* 
+
 
 ## Academic Projects
 >## [Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
