@@ -5,7 +5,7 @@
 ## Academic Projects
 >## [Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
 > *Currently working*     
->
+
 >There are two components in this project, 
 >  * **Question Generation:** 
 >  *Given a document, generates a set of questions relevant, fluent and reasonable to that document.* 
@@ -19,6 +19,7 @@
 
 >## Rock, Paper, Scissors 
 >*Duration - 1 Week | Role - Team Member | Technology - Python-GUI*
+
 > - Designed and Developed using OOP concepts.
 > - Used Tkinter library to get the GUI version.
 > - It's a game between a user and computer where for every round both user and system chooses one among rock, paper and scissors. Winner is decided by number of win counts among them. 
@@ -27,6 +28,7 @@
  
 >## Banking Project 
 >*Duration - 1 week | Role - Individual  | Technology - Java*
+
 > - Designed a program that stores customer's account details.
 > - Used Object Oriented Programming(OOP) concepts to test and design the operations such as transactions of debit and credit as user inputs.
 > - After completion of every successful transaction, displays the information about the remaining balance. 
