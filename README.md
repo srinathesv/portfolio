@@ -13,7 +13,7 @@
 > * **Answer Generation :** 
 >  *Given set of questions, should return an answer for each question with utmost fluent, correct and concise.*
 
-![qa](https://user-images.githubusercontent.com/71509397/117863738-b88aed00-b2b1-11eb-9637-4140e8307868.png)
+![QA-Webinar](https://user-images.githubusercontent.com/71509397/117863762-c04a9180-b2b1-11eb-98c8-b0e22e59997b.jpeg)
 
 
 >## Rock, Paper, Scissors 
