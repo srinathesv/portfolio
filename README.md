@@ -13,7 +13,7 @@
 > * **Answer Generation :** 
 >  *Given set of questions, should return an answer for each question with utmost fluent, correct and concise.*
 >  
-! [Q&A](https://github.com/srinathesv/srinath_portfolio/blob/main/QA-Webinar.jpeg)
+![Q&A](https://github.com/srinathesv/srinath_portfolio/blob/main/QA-Webinar.jpeg)
 >  
 
 >## Rock, Paper, Scissors 
@@ -22,7 +22,7 @@
 > - Used Tkinter library to get the GUI version.
 > - It's a game between a user and computer where for every round both user and system chooses one among rock, paper and scissors. Winner is decided by number of win counts among them. 
 > 
-! [](https://github.com/srinathesv/srinath_portfolio/blob/main/6115522063106048.jpeg)
+![](https://github.com/srinathesv/srinath_portfolio/blob/main/6115522063106048.jpeg)
  
 >## Banking Project 
 >*Duration - 1 week | Role - Individual  | Technology - Java*
