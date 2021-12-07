@@ -1,19 +1,27 @@
 # Srinath Esv
-*Master's Student | srinath.esv@gmail.com* 
+*MSIT, IIIT-H | srinath.esv@gmail.com* 
 
 
 ## Academic Projects
 >## [Question Answering](https://github.com/iiit-msit/QuestionAnswering)   
-> *Duration - 8 weeks | Type - Team Project | Technologies - NLP, Python*     
+> *Duration - 8 weeks | Type - Team Project | Technologies - NLP-spaCy, Python*     
 >
->There are two components in this project, 
->  * **Question Generation:** 
->  *Given a document, generates a set of questions relevant, fluent and reasonable to that document.* 
+>Our main Goal is to build a system that generates potential Questions and Answers when given a paragraph.
+>  * **Question Generation:** *
+>  - Our main focus is on Factual and Binary questions. 
+>  - Inorder to generate questions, we need to do some pre-processing work such as Parts-of-speech(POS) identification, Entities like Names, Geopolitical locations, 
+>  referencing words, etc. 
+>  - After the preprocessing, it's time to check for the patterns for factual qustions and binary questions. For binary question generation, the auxiliary verb in the sentence has to be prepended to the beginning. 
+![QuesGen](https://github.com/srinathesv/srinath_portfolio/blob/main/Screenshot%202021-12-07%20at%208.23.05%20AM.png)
 > 
 > * **Answer Generation :** 
->  *Given set of questions, should return an answer for each question with utmost fluent, correct and concise.*
-
-![QA-Webinar](https://user-images.githubusercontent.com/71509397/117863762-c04a9180-b2b1-11eb-98c8-b0e22e59997b.jpeg)
+> - For generating the answers, again first we need to do some pre-processing work to find the coreferencing words and replace them.
+> - Then we use the semantic similarity, that scores the similarity between the question and the paragraph from 0 to 1. 
+> - The sentence with maximum score is our answer for the given question. 
+> - Example, consider the paragraph "Samsung was founded by Lee Byung-chul in 1938 as a trading company. Over the next three decades, the group diversified into areas including food processing, textiles, insurance, securities, and retail."
+> And question is as follows, "Who founded Samsung?"
+> - The output is shown in the below picture.
+![AnswerGen](https://github.com/srinathesv/srinath_portfolio/blob/main/Screenshot%202021-12-07%20at%208.44.33%20AM.png)
 
 
 >## Rock, Paper, Scissors 
