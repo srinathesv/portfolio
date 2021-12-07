@@ -12,7 +12,8 @@
 >  - Inorder to generate questions, we need to do some pre-processing work such as Parts-of-speech(POS) identification, Entities like Names, Geopolitical locations, 
 >  referencing words, etc. 
 >  - After the preprocessing, it's time to check for the patterns for factual qustions and binary questions. For binary question generation, the auxiliary verb in the sentence has to be prepended to the beginning. 
-![ ](https://github.com/srinathesv/srinath_portfolio/blob/main/Screenshot%202021-12-07%20at%208.23.05%20AM.png)
+![ ](https://raw.githubusercontent.com/srinathesv/srinath_portfolio/main/Screenshot%202021-12-07%20at%208.23.05%20AM.png)
+
 > 
 * **Answer Generation :** 
 > - For generating the answers, again first we need to do some pre-processing work to find the coreferencing words and replace them.
