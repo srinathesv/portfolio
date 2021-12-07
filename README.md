@@ -11,7 +11,8 @@
 >  - Our main focus is on Factual and Binary questions. 
 >  - Inorder to generate questions, we need to do some pre-processing work such as Parts-of-speech(POS) identification, Entities like Names, Geopolitical locations, 
 >  referencing words, etc. 
->  - After the preprocessing, it's time to check for the patterns for factual qustions and binary questions. For binary question generation, the auxiliary verb in the sentence has to be prepended to the beginning. 
+>  - After the preprocessing, it's time to check for the patterns for factual qustions and binary questions. For binary question generation, the auxiliary verb in the sentence has to be prepended to the beginning.
+>  - In the below picture, first is the binary question, and second is the factual question. 
 ![ ](https://raw.githubusercontent.com/srinathesv/srinath_portfolio/main/Screenshot%202021-12-07%20at%208.23.05%20AM.png)
 
 > 
@@ -20,7 +21,7 @@
 > - Then we use the semantic similarity, that scores the similarity between the question and the paragraph from 0 to 1. 
 > - The sentence with maximum score is our answer for the given question. 
 > - Example, consider the paragraph "Samsung was founded by Lee Byung-chul in 1938 as a trading company. Over the next three decades, the group diversified into areas including food processing, textiles, insurance, securities, and retail."
-> And question is as follows, "Who founded Samsung?"
+> - And question is as follows, "Who founded Samsung?"
 > - The output is shown in the below picture.
 ![AnswerGen](https://raw.githubusercontent.com/srinathesv/srinath_portfolio/main/Screenshot%202021-12-07%20at%208.44.33%20AM.png)
 
